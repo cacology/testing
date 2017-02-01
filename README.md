@@ -2,6 +2,9 @@
 
 ![its me!](8105529.jpg)
 
+[It's a twine](https://cacology.github.io/testing/published.html)
+[It's the same](published.html)
+
 You can use the [editor on GitHub](https://github.com/cacology/testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
