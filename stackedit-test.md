@@ -1,3 +1,7 @@
+---
+layout: new
+---
+
 Welcome to StackEdit!
 ===================
 
