@@ -1,3 +1,7 @@
+---
+layout: new
+---
+
 ## Welcome to GitHub Pages
 
 ![its me!](8105529.jpg)
